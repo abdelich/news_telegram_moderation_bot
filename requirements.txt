@@ -1,0 +1,17 @@
+openai
+re
+logging
+json
+os
+glob
+asyncio
+sys
+telethon
+shutil
+csv
+feedparser
+requests
+bs4
+PIL
+svglib.svglib
+reportlab.graphics
